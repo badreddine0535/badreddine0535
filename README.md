@@ -61,9 +61,9 @@ I also have strong knowledge in *software design and modeling using UML* (Use Ca
 
 ### 📜 Certifications
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-JS_Essentials_1-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" title="Verified via QR Code">
+  <img src="https://img.shields.io/badge/Cisco-JS_Essentials_1-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" title="Credential ID available on request">
   
-  <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-005571?style=for-the-badge&logo=cisco&logoColor=white" height="35" title="Verified via QR Code">
+  <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-005571?style=for-the-badge&logo=cisco&logoColor=white" height="35" title="Credential ID available on request">
   
   <a href="https://www.coursera.org/account/accomplishments/verify/L3KUQY2BVD6N" target="_blank">
     <img src="https://img.shields.io/badge/Michigan-JS_jQuery_JSON-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" height="35">
