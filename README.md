@@ -13,7 +13,7 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 
 ---
 
-### 🌐 Socials:
+### 🌐 Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="badreddine-abdennour" height="35" /></a>
 <a href="mailto:baderabdennour123@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="baderabdennour123" height="35" /></a>
@@ -44,25 +44,18 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="35"/>
 </p>
 
-#### 🗄️ Databases (SQL & NoSQL)
+#### 🗄️ Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="35"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="35"/>
-</p>
-
-#### 🛠️ Tools & Platforms
-<p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="35"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="35"/>
 </p>
 
 ---
 
 ### 📜 Certifications
-
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/verify/L3KUQY2BVD6N" target="_blank">
     <img src="https://img.shields.io/badge/University_of_Michigan-JavaScript_jQuery_JSON-00274C?style=flat-square&logo=universityofmichigan&logoColor=white" alt="JavaScript jQuery JSON" height="25"/>
@@ -75,19 +68,17 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
   </a>
 </p>
 
-* 🏆 *JavaScript, jQuery, and JSON* – University of Michigan (Dec 2025) [ID: L3KUQY2BVD6N]
+* 🏆 *JavaScript, jQuery, and JSON* – University of Michigan (Dec 2025)
 * 🏆 *Python Essentials 1* – Cisco Networking Academy (March 2024)
 * 🏆 *JavaScript Essentials 1* – Cisco Networking Academy (March 2024)
 
 ---
 
 ### 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdennour-Tech&show_icons=true&locale=en&theme=radical" alt="Badreddine's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdennour-Tech&layout=compact&theme=radical&hide=html,css" alt="Badreddine's top languages" height="150"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdennour-Tech&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
@@ -95,7 +86,6 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 ---
 
 ### 📂 Highlighted Projects
-
 * 🚀 *DocLink:* A comprehensive hospital appointment management system.
     * Technologies: *Laravel, **MySQL, **Bootstrap*.
 
