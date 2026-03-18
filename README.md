@@ -59,7 +59,12 @@ I also have strong knowledge in *software design and modeling using UML* (Use Ca
 </p>
 
 
-
+### 📜 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35">
+  <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-005571?style=for-the-badge&logo=cisco&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Michigan-JS_jQuery_JSON-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" height="35">
+</p>
 
 
 ---
