@@ -1,107 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Badreddine%20Abdennour&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Badreddine%20Abdennour&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=60" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Badreddine Abdennour</h1>
-<h3 align="center">Full-Stack Web Developer | Casablanca, Morocco 🇲🇦</h3>
+# Hi, I'm Badreddine Abdennour 👋
+*Full-Stack Web Developer | Casablanca, Morocco* 🇲🇦
 
 ---
 
-## 🚀 About Me
-💻 Passionate Full-Stack Developer focused on building scalable and high-performance web applications  
-
-⚙️ Backend: Laravel, Symfony, PHP, Node.js  
-🎨 Frontend: React, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap  
-🗄️ Databases: MySQL, MongoDB, PostgreSQL  
-🧠 Programming: C++, Python  
-
-🔧 Currently improving my skills in:
-- DevOps (Docker & CI/CD)
-- System Design
-- Python Automation  
-
-🌍 Based in Casablanca, Morocco and open to international opportunities  
+### 🚀 About Me
+I am a dedicated *Full-Stack Developer* focused on building scalable, efficient web applications. I specialize in backend development with *Laravel* and *Symfony, and modern frontend development with **React. I have a strong foundation in database management (SQL & NoSQL) and systems programming with **C++. I am also expanding my skills in **DevOps* and *Python* automation.
 
 ---
 
-## 🌐 Connect with me
+### 🌐 Socials
+<p align="left">
+<a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"></a>
+<a href="mailto:baderabdennour123@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+#### ⚙️ Backend Development & Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="35"/>
+</p>
+
+#### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="35"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="35"/>
+</p>
+
+---
+
+### 📜 Certifications
+* 🏆 *JavaScript, jQuery, and JSON* – University of Michigan (Dec 2025)
+* 🏆 *Python Essentials 1* – Cisco Networking Academy (March 2024)
+* 🏆 *JavaScript Essentials 1* – Cisco Networking Academy (March 2024)
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
-<a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35"></a>
-<a href="mailto:baderabdennour123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdennour-Tech&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdennour-Tech&theme=radical" height="150"/>
 </p>
 
 ---
-
-## 💻 Tech Stack
-
-### ⚙️ Backend & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,python,cpp" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,bootstrap" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🏥 Hospital Appointment System
-🔹 Full-Stack application for managing hospital appointments  
-🔹 Built with React & Laravel  
-
-💻 Tech Stack: React, Laravel, Bootstrap, HTML, CSS, JavaScript, MySQL  
-
-🔗 https://github.com/Abdennour-Tech/hospital-rendezvous  
-
----
-
-### 🚗 Car Rental System
-🔹 Web application for car rental management  
-🔹 Built with Symfony  
-
-💻 Tech Stack: Symfony, HTML, CSS, Bootstrap, JavaScript, MySQL  
-
-🔗 https://github.com/Abdennour-Tech/car-rental  
-
----
-
-## 📜 Certifications
-- 🏆 JavaScript, jQuery, and JSON – University of Michigan (2025)  
-- 🏆 Python Essentials 1 – Cisco Networking Academy (2024)  
-- 🏆 JavaScript Essentials 1 – Cisco Networking Academy (2024)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdennour-Tech&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdennour-Tech&theme=radical" height="160"/>
-</p>
-
----
-
-## 🧠 Currently Learning
-- DevOps (Docker & CI/CD)
-- System Design
-- Python Automation
-
----
-
-## 📫 Contact
-📧 baderabdennour123@gmail.com  
-🌍 Casablanca, Morocco  
+<p align="center"><i>Learning everyday, building always.</i></p>
