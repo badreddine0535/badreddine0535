@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Badreddine%20Abdennour&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=60" width="100%" />
-</p>
-
 # Hi, I'm Badreddine Abdennour 👋
 *Full-Stack Web Developer | Casablanca, Morocco* 🇲🇦
 
@@ -58,13 +54,13 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 ### 📜 Certifications
 <p align="left">
   <a href="https://www.coursera.org/account/accomplishments/verify/L3KUQY2BVD6N" target="_blank">
-    <img src="https://img.shields.io/badge/University_of_Michigan-JavaScript_jQuery_JSON-00274C?style=flat-square&logo=universityofmichigan&logoColor=white" alt="JavaScript jQuery JSON" height="25"/>
+    <img src="https://img.shields.io/badge/University_of_Michigan-JavaScript_jQuery_JSON-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" alt="JavaScript jQuery JSON" height="35"/>
   </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=flat-square&logo=cisco&logoColor=white" alt="Python Essentials 1" height="25"/>
+  <a href="https://www.credly.com/earner/earned/badge/43126f21-7557-418b-8898-33568c09a807" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials 1" height="35"/>
   </a>
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-yellow?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Essentials 1" height="25"/>
+  <a href="https://www.credly.com/earner/earned/badge/7f7e2714-9988-433e-9080-606060606060" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Essentials 1" height="35"/>
   </a>
 </p>
 
