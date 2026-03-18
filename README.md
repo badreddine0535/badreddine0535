@@ -70,6 +70,17 @@ I also have strong knowledge in **software design and modeling using UML** (Use 
 
 ---
 
+### 📐 UML Diagrams
+<p align="center">
+  <img src="images/use_case_diagram.png" alt="Use Case Diagram" width="400"/>
+  <img src="images/class_diagram.png" alt="Class Diagram" width="400"/>
+  <img src="images/sequence_diagram.png" alt="Sequence Diagram" width="400"/>
+</p>
+
+> ضع الصور في مجلد `images` أو غيّر الرابط حسب مكان الصور في مشروعك.
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdennour-Tech&show_icons=true&theme=radical" height="150"/>
