@@ -30,6 +30,7 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="35"/>
 </p>
 
@@ -41,6 +42,13 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
   <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="35"/>
 </p>
+
+---
+
+### 📜 Certifications
+* 🏆 **[JavaScript, jQuery, and JSON](https://www.coursera.org/account/accomplishments/verify/9XG7B8L4Z2MR)** – University of Michigan (Dec 2025)
+* 🏆 **[Python Essentials 1](https://www.credly.com/badges/python-essentials-1)** – Cisco Networking Academy (March 2026)
+* 🏆 **[JavaScript Essentials 1](https://www.credly.com/badges/javascript-essentials-1)** – Cisco Networking Academy (March 2026)
 
 ---
 
