@@ -89,4 +89,8 @@ I also have strong knowledge in *software design and modeling using UML* (Use Ca
 
 ---
 
-<p align="center"><i>Learning everyday, building always.</i></p>
+<p align="center"><i>Learning everyday, building always.</i></p>    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdennour-Tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Abdennour-Tech" />
+</p>
