@@ -16,7 +16,7 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 <p align="left">
 <a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"></a>
-<a href="mailto:baderabdennour123@gmail.com" target="_blank">
+<a href="mailto:baderabdennour123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"></a>
 </p>
 
@@ -41,13 +41,6 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
   <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="35"/>
 </p>
-
----
-
-### 📜 Certifications
-* 🏆 *JavaScript, jQuery, and JSON* – University of Michigan (Dec 2025)
-* 🏆 *Python Essentials 1* – Cisco Networking Academy (March 2024)
-* 🏆 *JavaScript Essentials 1* – Cisco Networking Academy (March 2024)
 
 ---
 
